@@ -25,7 +25,6 @@
     "youtubei.js": "^10.0.0",
     "@vreden/youtube_scraper": "^1.2.5",
     "@fongsidev/scraper": "^1.0.2-4.2",
-    "ruhend-scraper": "latest",
     "async-g-i-s": "^1.5.5",
     "form-data": "^4.0.1",
     "file-type": "^16.5.3",
